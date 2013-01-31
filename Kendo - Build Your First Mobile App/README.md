@@ -23,7 +23,7 @@ Your page should look something like this...
     <head>
       <meta charset="UTF-8">
       <title></title>
-      <link rel="Stylesheet" href="css/kendo.mobile.all.min.css">
+      <link rel="stylesheet" href="css/kendo.mobile.all.min.css">
     </head>
     <body>
       
@@ -44,7 +44,7 @@ To get you started, use the following code:
     <head>
       <meta charset="UTF-8">
       <title></title>
-      <link rel="Stylesheet" href="css/kendo.mobile.all.min.css">
+      <link rel="stylesheet" href="css/kendo.mobile.all.min.css">
     </head>
     <body>
       

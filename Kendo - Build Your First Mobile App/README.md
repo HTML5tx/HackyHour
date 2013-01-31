@@ -67,24 +67,28 @@ To get you started, use the following code:
       
       <script>
         
-        (function() {
+        (function($) {
         
           window.APP = {};
-          
+
           // sample client id. won't work after Monday. 
-          // you should register for your own at instagram.com/developers
+          // You should register for your own at instagram.com/developers
           var clientid = "e70cc03ee111421cba42068751ff75b1";
-          
-          // create a datasource to read the instagram api
-          // and map its results array
-          APP.popular = kendo.data.DataSource({
+
+          APP.popular = new kendo.data.DataSource({
             transport: {
-              read: "https://api.instagram.com/v1/media/popular?client_id=" + clientid;
+              read: {
+                url: "https://api.instagram.com/v1/media/popular?client_id=" + clientid,
+                dataType: "jsonp"
+              }
             },
             schema: {
               data: "data"
             }
           });
+
+          // create the mobile application
+          var app = new kendo.mobile.Application(document.body);
         
         }(jQuery));
       

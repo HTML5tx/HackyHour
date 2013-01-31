@@ -27,8 +27,8 @@ Your page should look something like this...
     </head>
     <body>
       
-      <script src="jquery.min.js"></script>
-      <script src="kendo.all.min.js"></script>
+      <script src="js/jquery.min.js"></script>
+      <script src="js/kendo.all.min.js"></script>
 
     </body>
     </html>
@@ -62,8 +62,8 @@ To get you started, use the following code:
         </a>
       </script>
       
-      <script src="jquery.min.js"></script>
-      <script src="kendo.all.min.js"></script>
+      <script src="js/jquery.min.js"></script>
+      <script src="js/kendo.all.min.js"></script>
       
       <script>
         

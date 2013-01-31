@@ -107,6 +107,10 @@ Hit up the docs and getting started guides at [docs.kendoui.com](http://docs.ken
 
 3. Use a [Kendo UI Mobile SplitView](http://demos.kendoui.com/mobile/splitview) to display the images on the left side and their details on the right side.
 
+## Get some hands on training
+
+Want to get some hands-on training?  Head over to [try.kendoui.com](http://try.kendoui.com) and get interactive lessons that will let you work your way through Kendo UI at your own pace.
+
 ## Help is all around you!
 
 There will be 4 resident Kendo UI Mobile experts to sit and assist you with your application.  If you need help, just find someone with a Kendo UI shirt and ask them!

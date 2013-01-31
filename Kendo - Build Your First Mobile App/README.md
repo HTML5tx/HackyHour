@@ -14,7 +14,6 @@ Include the necessary files for creating a Kendo UI mobile application...
 
 1. kendo.mobile.all.min.css (at the top of the page)
 2. kendo.all.min.js, jquery.min.js (at the bottom of the page below the closing body tag)
-4. The 'textures' and 'images' folders
 
 Your page should look something like this...
 

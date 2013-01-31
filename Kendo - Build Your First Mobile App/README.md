@@ -6,7 +6,7 @@ Members of the Kendo UI team will be present to assist you and register you for 
 
 ## Step 1
 
-[Download the Kendo UI Mobile framework](http://www.kendoui.com/download) for building performant cross-plaform mobile applications with HTMl5.
+[Download the Kendo UI Mobile framework](http://www.kendoui.com/download) for building performant cross-plaform mobile applications with HTML5.
 
 ## Step 2
 

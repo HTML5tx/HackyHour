@@ -75,6 +75,7 @@ To get you started, use the following code:
           // You should register for your own at instagram.com/developers
           var clientid = "e70cc03ee111421cba42068751ff75b1";
 
+          // create a remote datasource for reading the instagram api
           APP.popular = new kendo.data.DataSource({
             transport: {
               read: {
